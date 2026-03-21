@@ -124,8 +124,7 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack ‚Ä
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Truphile&theme=tokyonight&hide_border=true" height="180" />
 
-</div>
-
+<!-- </div>
 
 ---
 
@@ -137,9 +136,9 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack ‚Ä
 | **Full Stack Engineer** | [Company Name] | 2021 ‚Äì 2023 |
 | **Junior Software Developer** | [Company Name] | 2019 ‚Äì 2021 |
 
----
+---###
 
-<div align="center">
+<div align="center"> -->
 
 ### ü§ù LET'S CONNECT
 
