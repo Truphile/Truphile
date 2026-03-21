@@ -126,7 +126,6 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack �
 
 </div>
 
-> 🔧 Replace `Truphile` (×3) with your actual GitHub username.
 
 ---
 
