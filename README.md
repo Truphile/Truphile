@@ -66,9 +66,9 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack â€
 
 ---
 
-## ðŸš€ FEATURED PROJECTS
+ ðŸš€ FEATURED PROJECTS
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%" valign="top">
       <h3>ðŸ”· <a href="https://github.com/yourhandle/project-one">Project Name</a></h3>
@@ -109,7 +109,7 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack â€
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
