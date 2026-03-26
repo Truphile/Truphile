@@ -82,7 +82,7 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack â€
       </p>
     </td>
   </tr>
-  < You can add a second project here by copying the <td> block above >
+
 </table>
     <td width="50%" valign="top">
       <h3>ðŸ”· <a href="https://github.com/yourhandle/project-three">Project Name</a></h3>
