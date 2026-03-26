@@ -68,28 +68,22 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack �
 
  🚀 FEATURED PROJECTS
 
-<!-- <table>
+< <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔷 <a href="https://github.com/yourhandle/project-one">Project Name</a></h3>
-      <p>A production-grade [what it does] serving [X users / solving X problem]. Built with performance and scalability at the core.</p>
-      <p><strong>Stack:</strong> React · Python · FastAPI · PostgreSQL · Docker</p>
+    <table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🔷 <a href="https://github.com/Truphile/QuickPay">QuickPay</a></h3>
+      <p>A production-grade payment processing system engineered to simplify and secure digital transactions. Features secure user authentication, a managed digital wallet, and seamless Paystack integration for real-world payments.</p>
+      <p><strong>Stack:</strong> Python · Django · Django REST Framework · PostgreSQL · Paystack API</p>
       <p>
-        <a href="https://yourproject.com">🌐 Live</a> &nbsp;|&nbsp;
-        <a href="https://github.com/yourhandle/project-one">📂 Source</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔷 <a href="https://github.com/yourhandle/project-two">Project Name</a></h3>
-      <p>A [what it does] engineered to [key outcome — e.g. reduce latency, automate workflows, scale to millions]. [Any notable metric.]</p>
-      <p><strong>Stack:</strong> Next.js · Java · Spring Boot · MongoDB · AWS</p>
-      <p>
-        <a href="https://yourproject.com">🌐 Live</a> &nbsp;|&nbsp;
-        <a href="https://github.com/yourhandle/project-two">📂 Source</a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/Truphile/QuickPay">📂 Source</a>
       </p>
     </td>
   </tr>
-  <tr>
+  < You can add a second project here by copying the <td> block above >
+</table>
     <td width="50%" valign="top">
       <h3>🔷 <a href="https://github.com/yourhandle/project-three">Project Name</a></h3>
       <p>[Brief, punchy description of the project and its impact. One to two sentences max.]</p>
