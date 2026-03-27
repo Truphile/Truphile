@@ -84,15 +84,19 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack 鈥
   </tr>
 
 </table>
-    <td width="50%" valign="top">
-      <h3>馃敺 <a href="https://github.com/yourhandle/project-three">Project Name</a></h3>
-      <p>[Brief, punchy description of the project and its impact. One to two sentences max.]</p>
-      <p><strong>Stack:</strong> Node.js 路 Express 路 Redis 路 PostgreSQL</p>
+   <table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>馃敺 <a href="https://github.com/Truphile/Ecom-web">Ecom-Web</a></h3>
+      <p>A static e-commerce frontend featuring a product catalog, a client-side shopping cart, and a checkout form. The shopping cart state is persisted using the browser's localStorage.</p>
+      <p><strong>Stack:</strong> HTML5 路 CSS3 路 Vanilla JavaScript</p>
       <p>
-        <a href="https://yourproject.com">馃寪 Live</a> &nbsp;|&nbsp;
-        <a href="https://github.com/yourhandle/project-three">馃搨 Source</a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/Truphile/Ecom-web">馃搨 Source</a>
       </p>
     </td>
+  </tr>
+<!-- </table>
     <td width="50%" valign="top">
       <h3>馃敺 <a href="https://github.com/yourhandle/project-four">Project Name</a></h3>
       <p>[Brief, punchy description of the project and its impact. One to two sentences max.]</p>
@@ -103,7 +107,7 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack 鈥
       </p>
     </td>
   </tr>
-</table> -->
+</table> --> -->
 
 
 
