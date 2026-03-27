@@ -83,17 +83,21 @@ I'm a **Full Stack Engineer** with deep expertise across the entire web stack 鈥
     </td>
   </tr>
 
-  <tr>
-    <td width="100%" valign="top">
-      <h3>馃敺 <a href="https://github.com/Truphile/Ecom-web">Ecom-Web</a></h3>
-      <p>A static e-commerce frontend featuring a product catalog, a client-side shopping cart, and a checkout form. The shopping cart state is persisted using the browser's localStorage.</p>
-      <p><strong>Stack:</strong> HTML5 路 CSS3 路 Vanilla JavaScript</p>
-      <p>
+ <td width="100%" valign="top">
+    <h3>
+        馃敺 <a href="https://github.com/Truphile/Ecom-web">Ecom-Web</a>
+    </h3>
+    <p>
+        A static e-commerce frontend featuring a product catalog, a client-side shopping cart, and a checkout form. The shopping cart state is persisted using the browser's localStorage.
+    </p>
+    <p>
+        <strong>Stack:</strong> HTML5 路 CSS3 路 Vanilla JavaScript
+    </p>
+    <p>
         &nbsp;|&nbsp;
         <a href="https://github.com/Truphile/Ecom-web">馃搨 Source</a>
-      </p>
-    </td>
-  </tr>
+    </p>
+</td>
  </table>
 <!-- </table>
     <td width="50%" valign="top">
